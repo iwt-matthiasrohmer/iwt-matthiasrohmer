@@ -1,16 +1,16 @@
-### Hi there 👋
+![Immowelt](https://img.shields.io/badge/immo-welt-%23fc0)
+![Team Honey Badgers](https://img.shields.io/badge/Team-Honey%20Badgers-%23838282)
+![Frontend Dev](https://img.shields.io/badge/Profession-Frontend%20Developer-%234c1)
 
-<!--
-**iwt-matthiasrohmer/iwt-matthiasrohmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ <b>SmartDesign  Maintainer (Core/Angular/Infra)</b>
 
-Here are some ideas to get you started:
+❤️ Angular<br>
+🧡 Svelte<br>
+🤍 Cycling<br>
+🖤 FCN<br>
+💙 Seahawks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<b>I'm Currently Coding To</b><br>
+<a href="https://spotify-stats.rohmer.rocks/now-playing?open"><img src="https://spotify-stats.rohmer.rocks/now-playing?progress-bar=%23fc0" alt="Now Playing"></a>
