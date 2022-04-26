@@ -2,6 +2,7 @@
 ![Team Honey Badgers](https://img.shields.io/badge/Team-Honey%20Badgers-%23838282)
 ![Frontend Dev](https://img.shields.io/badge/Profession-Frontend%20Developer-%234c1)
 
+✨ <b>PDP  Maintainer</b>
 ✨ <b>SmartDesign  Maintainer (Core/Angular/Infra)</b>
 
 ❤️ Angular<br>
