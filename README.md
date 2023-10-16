@@ -9,5 +9,5 @@
 🧡 Svelte<br>
 🤍 Cycling<br>
 🖤 FCN<br>
-💙 Seahawks
-💚 3D Printing
+💙 Seahawks<br>
+💚 3D Printing<br>
